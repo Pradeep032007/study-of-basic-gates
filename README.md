@@ -1,6 +1,5 @@
-# study-of-basic-gates
-# NAME : PRADEEP
-# REG NO : 24900484
+### NAME : PRADEEP
+### REG NO : 24900484
 # EXPRIMENT 1 : STUDY OF LOGIC GATES
 # AIM: 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
